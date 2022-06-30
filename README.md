@@ -2,7 +2,7 @@
 ### Good day✨  
 I'm dreaming of full stack developer skilled in API, WEB, and APP.
 
-I have interested in creating REST API with Laravel and a web screen with Html/CSS, Bootstrap.<br>
+I have interested in devloping REST API with Laravel and a web screen with Html/CSS, Bootstrap.<br>
 Sometimes I develop cross-platforms mobile app like Flutter!
 
 ### 🛠 Skils
