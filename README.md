@@ -7,7 +7,7 @@ Sometimes I develop cross-platforms mobile app like Flutter!
 
 ### 🛠 Skils
 
-#### Techs that I've used at least 
+#### Techs used more than once 
 
 <a href="#"><img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white"/></a>
 <a href="#"><img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white"/></a>
